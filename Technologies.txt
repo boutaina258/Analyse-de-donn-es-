@@ -1,0 +1,2 @@
+Technologies utilisées : Python, pandas , matplotlib ,
+LinearRegression , RandomForestClassifier , Pipeline
